@@ -1,4 +1,4 @@
-[Site](../..)
+[Site](https://DjonixEDuaat-Havlyre.github.io/simple/)
 
 [Settings](../../settings/)
 
