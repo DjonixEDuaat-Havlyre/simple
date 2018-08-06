@@ -1,4 +1,6 @@
-[Go Here](../../settings/)
+[Site](.)
+
+[Settings](../../settings/)
 
 ## Welcome to GitHub Pages
 
